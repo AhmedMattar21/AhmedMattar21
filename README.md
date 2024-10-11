@@ -1,4 +1,7 @@
-# Welcome to My DevOps Portfolio
+
+<h1 align="center"> Welcome to My Portfolio </h1>
+
+<img src="img/devops4.png" width=100%>
 
 ## About Me
 
