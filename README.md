@@ -6,10 +6,11 @@
 </p>
 
 
+<h2 align="center"> About Me </h2>
 
-## About Me
-
-I am a dedicated **DevOps Engineer** with a strong focus on automating and optimizing infrastructure to enhance the development and deployment processes. I aim to bridge the gap between development and operations by implementing best practices and utilizing modern tools to deliver efficient, scalable, and secure solutions.
+<p align="center">
+I am a dedicated <b> DevOps Engineer </b> with a strong focus on automating and optimizing infrastructure to enhance the development and deployment processes. I aim to bridge the gap between development and operations by implementing best practices and utilizing modern tools to deliver efficient, scalable, and secure solutions.
+</p>
 
 ## Skills
 
