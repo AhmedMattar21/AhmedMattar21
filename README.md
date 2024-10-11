@@ -1,7 +1,10 @@
 
 <h1 align="center"> Welcome to My Portfolio </h1>
 
-<img src="img/devops4.png" width=100%>
+<div style="text-align: center;">
+  <img src="img/devops4.png" height="300">
+
+
 
 ## About Me
 
@@ -61,3 +64,4 @@ I welcome opportunities for collaboration, discussions, or inquiries. Please fee
 - **Email:** your.email@example.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
+</div>
