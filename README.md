@@ -47,7 +47,7 @@ I am a dedicated <b> DevOps Engineer </b> with a strong focus on automating and 
 
 <h3 align="center"> InfinityOps: end-to-end DevOps Project </h3>
 
-![alt text](img/infinityops.png)
+<!-- ![alt text](img/infinityops.png) -->
 
 - **Description:** Designed a Jenkins pipeline that automatically
 deploys Dockerized microservices to a K8s cluster.
