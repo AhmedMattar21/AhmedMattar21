@@ -1,7 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedMattar21&theme=dark&hide_border=true&card_width=600&card_height=210&type=png)](https://git.io/streak-stats)
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedMattar21&theme=dark&hide_border=true&card_width=600&card_height=210&type=png" alt="GitHub Streak" /></a>
 
 
 <h1 align="center"> Welcome to My Playground! </h1>
