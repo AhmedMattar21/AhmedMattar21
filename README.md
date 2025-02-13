@@ -1,11 +1,16 @@
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedMattar21&theme=dark&hide_border=true&card_width=600&card_height=210&type=png)](https://git.io/streak-stats)
+
+
+
+
 <h1 align="center"> Welcome to My Playground! </h1>
 
 <p align="center">
   <img src="img/devops4.png" height="300">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedMattar21&theme=dark&hide_border=true&card_width=600&card_height=210&type=png)](https://git.io/streak-stats)
+
 <h2 align="center"> About Me </h2>
 
 <p align="center">
