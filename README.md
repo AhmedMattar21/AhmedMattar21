@@ -18,46 +18,59 @@ I am a dedicated <b> DevOps Engineer </b> with a strong focus on automating and 
 <p align="center"> <b> Programming </b> </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,bash,cs" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,bash" />
 </p>
 
 <p align="center"> <b> CI / CD </b> </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins,githubactions" />
-    <img src="img/argocd.png">
-  </a>
+    <img src="img/argocd2.png"  width="50px">
 </p>
 
-<p align="center"> Jenkins | ArgoCD | Github Actions </p>
 
 <p align="center"> <b> Containerization & Orchestration </b> </p>
 
-<p align="center"> Kubernetes | Docker | Containerd | Helm </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+    <img src="img/helm.png"  width="50px">
+    <img src="img/containerd.png"  width="50px">
+</p>
+
 
 <p align="center"> <b> Infrastructure as Code (IaC) </b> </p>
 
-<p align="center"> Terraform | Ansible | CloudFormation </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+    <img src="img/cf.png"  width="50px">
+</p>
 
 <p align="center"> <b> Cloud Providers </b> </p>
 
-<p align="center"> aws | GCP | VPSie </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="img/vpsie.png"  width="47px">
+</p>
+
 
 <p align="center"> <b> Databases </b> </p>
 
-<p align="center"> MySQL | XtraDB | MongoDB </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
 
 <p align="center"> <b> Monitoring & Logging </b> </p>
 
-<p align="center"> Prometheus | Grafana | Loki </p>
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+    <img src="img/loki.png"  width="50px">
+</p>
 
 <h2 align="center"> Projects </h2>
 
 <h3 align="center"> InfinityOps: end-to-end DevOps Project </h3>
+    <img src="img/infinityops2.png"  width="100%">
 
 <!-- ![alt text](img/infinityops.png) -->
 
