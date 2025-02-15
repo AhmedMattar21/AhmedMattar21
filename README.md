@@ -1,9 +1,9 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMattar21&&theme=tokyonight" alt="rishavchanda" /></p>
 
 <h1 align="center"> Welcome to My Playground! </h1>
 
 <p align="center">
-  <img src="img/devops4.png" height="300">
+  <img src="img/devops4.png" height="300"><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMattar21&&theme=tokyonight" alt="AhmedMattar21" />
 </p>
 
 
