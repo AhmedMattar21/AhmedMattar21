@@ -17,9 +17,20 @@ I am a dedicated <b> DevOps Engineer </b> with a strong focus on automating and 
 
 <p align="center"> <b> Programming </b> </p>
 
-<p align="center"> Python | Bash | C# | SQL | Django </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,flask,bash,cs" />
+  </a>
+</p>
 
 <p align="center"> <b> CI / CD </b> </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions" />
+    <img src="img/argocd.png">
+  </a>
+</p>
 
 <p align="center"> Jenkins | ArgoCD | Github Actions </p>
 
