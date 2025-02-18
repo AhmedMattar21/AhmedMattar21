@@ -4,8 +4,9 @@
 <p align="center">
   <img src="img/devops4.png" height="300"><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMattar21&&theme=tokyonight" alt="AhmedMattar21" />
-  [GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <h2 align="center"> About Me </h2>
