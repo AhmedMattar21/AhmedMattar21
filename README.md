@@ -9,26 +9,36 @@ By leveraging modern tools and best practices, I bridge the gap between developm
 ### **🛠 Skills**
 ```sh
 ➜ cat skills
-# Programming
-[python, bash, ]
-
-# Infrastructure as Code (IaC)
-[terraform, ansible, ]
-
-# Containers & Orchestration
-[docker, podman, kubernetes, cri-o, ]
-
-# Monitoring & Logging
-[prometheus, grafana, loki, alertmanager, elasticsearch, fluentd, ]
-
-# Cloud & Virtualization
-[aws, proxmox, kvm, ]
+# Programming & Scripting
+[python, django, flask, bash, ]
 
 # CI/CD & Automation
-[jenkins, github-actions, helm, argocd, ]
+[jenkins, github-actions, argocd, circleci, ]
 
-# Networking & Security
-[nginx, haproxy, cloudflare, SSL/TLS, RBAC, ]
+# Containers & Orchestration
+[kubernetes, docker, helm, containerd, ]
+
+# Infrastructure as Code (IaC)
+[terraform, ansible, cloudformation, ]
+
+# Cloud & Virtualization
+[aws, vpsie-cloud, proxmox, kvm, ]
+
+# Databases
+[mysql, xtradb, mongodb, sqlite, ]
+
+# Monitoring & Logging
+[prometheus, grafana, loki, ]
+
+# Service Mesh & Security
+[istio, vault, nexus, ]
+
+# Networking & Load Balancing
+[nginx, haproxy, ]
+
+# Other
+[git, linux, ]
+
 ```
 ---
 
@@ -36,7 +46,7 @@ By leveraging modern tools and best practices, I bridge the gap between developm
 ### **📖 Learning & Exploration**
 ```sh
 ➜ cat learning
-[react, advanced cloud networking, kubernetes security, ]
+[advanced cloud networking, kubernetes security, react, ]
 ```
 
 ### **🎮 Hobbies**
