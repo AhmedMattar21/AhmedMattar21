@@ -52,6 +52,6 @@ I bridge the gap between development and operations, ensuring scalability, secur
 
 ### **🎮 Hobbies**
 ```sh
-➜ cat about/hobbies
+➜ cat hobbies
 [anime, gaming, ]
 ```
