@@ -1,8 +1,9 @@
 
 ```sh
 ➜ whoami
-I am a "DevOps Engineer" with a strong focus on automating and optimizing infrastructure to enhance development and deployment processes. 
-By leveraging modern tools and best practices, I bridge the gap between development and operations, ensuring scalability, security, and efficiency.
+I am a "DevOps Engineer" who strongly focuses on automating and optimizing infrastructure
+to enhance development and deployment processes. By leveraging modern tools and best practices,
+I bridge the gap between development and operations, ensuring scalability, security, and efficiency.
 ```
 
 ---
