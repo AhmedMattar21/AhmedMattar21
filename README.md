@@ -7,7 +7,7 @@ I bridge the gap between development and operations, ensuring scalability, secur
 ```
 
 ---
-### **🛠 Skills**
+### **🧑‍💻 Skills**
 ```sh
 ➜ cat skills
 # Programming & Scripting
